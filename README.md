@@ -1,1 +1,1 @@
-# csc-648-848-04-jose-fall-2020-05
+Mirrored repository for a software engineering course project (web application)
